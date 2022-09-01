@@ -7,6 +7,10 @@
 
 public void logowanie() {
         System.out.println("Podaj użytkownika gmaila");
+
+    }
+public void logowanie() {
+        System.out.println("Podaj użytkownika microsoftu");
         System.out.println("Podaj poprawne hasło");
         System.out.println("Kliknij na przycisk zaloguj");
     }
