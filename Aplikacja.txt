@@ -3,3 +3,10 @@
         System.out.println("Podaj poprawne hasło");
         System.out.println("Kliknij na przycisk zaloguj");
     }
+
+
+public void logowanie() {
+        System.out.println("Podaj użytkownika gmaila");
+        System.out.println("Podaj poprawne hasło");
+        System.out.println("Kliknij na przycisk zaloguj");
+    }
